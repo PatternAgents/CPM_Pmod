@@ -3,7 +3,7 @@ CPM Pmod Adaptor
 
 PatternAgents CPM Pmod Adaptor
 
-[![PatternAgents CPM Pmod Adaptor](http://www.patternagent.com/img/project/CPM_Pmod/CPM_Pmod_model.png)  
+[![PatternAgents CPM Pmod Adaptor](http://www.patternagent.com/img/projects/CPM_Pmod/CPM_Pmod_model.png)  
 *PatternAgents CPM Pmod Adaptor*](http://www.patternagent.com/projects/CPM_Pmod.html)
 
 The "CPM Pmod Adaptor" board is designed to enable Cypress PSoC development boards to utilize Pmod peripherals.
